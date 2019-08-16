@@ -1,6 +1,6 @@
 # simpleJavaDownloader
 
-This is a sample Downloader built in java.
+This is a simple single task Downloader built in java.
 
 for usage:
 
